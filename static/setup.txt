@@ -1,0 +1,3 @@
+plugin.tx_googlecse_pi1.templateFile = EXT:googlecse/template.html
+plugin.tx_googlecse_pi1.googleCSEkey =
+plugin.tx_googlecse_pi1.language = en
