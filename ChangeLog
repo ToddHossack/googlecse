@@ -1,3 +1,9 @@
+2015-10-31 Todd Hossack <todd@tiraki.com>
+	* Removed incompatible require_once call in tx_googlecse_pi1
+
+2015-09-21 Todd Hossack <todd@tiraki.com>
+	* Typo3 version compatibility fix for tx_googlecse_pi1_wizicon::includeLocalLang
+
 2010-04-17 Toni Milovan  <tmilovan@fwd.hr>
 
 	* initial code generated with kickstarter
