@@ -34,6 +34,7 @@
  * Class that adds the wizard icon.
  *
  * @author	Toni Milovan <tmilovan@fwd.hr>
+ * @author  Todd Hossack <todd@tiraki.com> (Maintainance updates)
  * @package	TYPO3
  * @subpackage	tx_googlecse
  */

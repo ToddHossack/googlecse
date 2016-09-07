@@ -31,10 +31,11 @@
  * Plugin 'Google custom search results' for the 'googlecse' extension.
  *
  * @author	Toni Milovan <tmilovan@fwd.hr>
+ * @author  Todd Hossack <todd@tiraki.com> (Maintainance updates)
  * @package	TYPO3
  * @subpackage	tx_googlecse
  */
-class tx_googlecse_pi1 extends tslib_pibase {
+class tx_googlecse_pi1 extends TYPO3\CMS\Frontend\Plugin\AbstractPlugin {
 	var $prefixId      = 'tx_googlecse_pi1';		// Same as class name
 	var $scriptRelPath = 'pi1/class.tx_googlecse_pi1.php';	// Path to this script relative to the extension dir.
 	var $extKey        = 'googlecse';	// The extension key.
